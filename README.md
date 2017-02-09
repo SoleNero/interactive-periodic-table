@@ -1,23 +1,32 @@
-# interactive-periodic-table
-q3 project
+Atom Superstratum
 
-GitHub setup:
-* echo node_modules >> .gitignore
-* echo .DS_Store > .gitignore
+Interactive Periodic Table is a fully encompassed interactive desktop educational tool where users can interact with and learn from the Periodic Table!
 
-Pull Request Process:
-* git checkout -b initials_branch_name
-* Make changes to code
-* Add and commit
-* git pull origin master into your branch
-  * merge conflicts?
-    * Slack team that there is a merge conflict
-    * fix merge conflicts in Atom
-    * close file in Atom
-    * commit merge conflict fixes
-* if no merge conflicts, git push origin branch_name
-* Submit a Pull Request in GitHub to merge to master
-* Slack Team that you merged your branch with master
-* Team will git pull origin master on local drive
+![Screen Shot 2017-02-09 at 4.16.40 PM](Screen Shot 2017-02-09 at 4.16.40 PM.png)
 
-**Check Waffle.io for who is working on what files!**
+
+
+You can see detailed information upon hovering over the element, as well as, select filters to add colors to elements that share the same states and group.
+
+
+![Screen Shot 2017-02-09 at 4.17.27 PM](Screen Shot 2017-02-09 at 4.17.27 PM.png)
+
+
+
+
+You can click on the element to view more information and an animated Bohr Model.
+
+
+![Screen Shot 2017-02-09 at 4.18.17 PM](Screen Shot 2017-02-09 at 4.18.17 PM.png)
+
+
+
+
+Technology:
+
+- HTML/CSS
+- JSON File
+- Angular2
+- Typescript
+- Electron
+
